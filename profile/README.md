@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./assets/jame-banner.jpeg" alt="Jame" width="100%">
+  <img src="./profile/jame-banner.jpeg" alt="Jame" width="100%">
 </p>
 
 <h1 align="center">Jame.</h1>
