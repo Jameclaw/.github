@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Founders 🦞
 
 <p align="center">
  <img src="./Jame-banner.jpeg" alt="Jame" width="100%">
